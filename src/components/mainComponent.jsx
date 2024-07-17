@@ -21,9 +21,9 @@ function MainComponent() {
             >
                 <div className='p-5 flex flex-col justify-center items-center h-screen'>
                     <h1 className='text-center text-5xl text-white'>
-                        EATPLEK.
+                        EATPLEK new.
                     </h1>
-                    
+
                     <p className='text-center text-1xl text-white mt-4 max-w-lg'>
                         Kerala first time dine in takeaway prebooking platform                    </p>
 
